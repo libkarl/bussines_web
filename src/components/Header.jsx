@@ -9,7 +9,7 @@ class Header extends Component {
                     <div class="max-w-7xl mx-auto px-8">
                         <div class="flex items-center justify-between h-16">
                             <div class=" flex items-center">
-                                <a class="flex-shrink-0" href="/">
+                                <a class="flex-shrink-0" href="https://github.com/" target="_blank" >
                                     <img class="h-8 w-8"  src={Medal} alt="Workflow"/>
                                 </a>
                                 <div class="hidden md:block">
